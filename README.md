@@ -1,5 +1,11 @@
 # GPT from Scratch
 
+## Team Members (Group 4)
+- Vishruth Byaramudu Lokesh
+- Zeba Samiya
+- Himanshu Singh Rao
+- Akshay Aralikatti
+
 ## Overview
 This repository contains implementations of a Generative Pre-trained Transformer (GPT) model built incrementally from scratch using PyTorch. The primary objective is educational, providing a clear, step-by-step understanding of how transformer architectures are developed—from simple bigram models to advanced GPT architectures incorporating attention mechanisms, residual connections, and layer normalization.
 
@@ -63,6 +69,3 @@ pip install torch
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [NanoGPT by Andrej Karpathy](https://github.com/karpathy/nanoGPT)
-
-## Team Members
-- Group 4
